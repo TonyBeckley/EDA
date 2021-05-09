@@ -1,2 +1,2 @@
 # EDA
-EDA repo
+EDA repo for youtube data
